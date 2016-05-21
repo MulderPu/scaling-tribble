@@ -12,3 +12,12 @@ storage/
 .env.php
 .env
 .env.example
+
+
+# Compiled and vendor files
+/public/css/
+/public/js/
+/public/fonts/
+
+# Images
+/public/images/
